@@ -10,7 +10,7 @@ router.delete('/borra' , usuariosDelete);
 router.patch('/parcha' , usuariosPatch);
 //router.update('/actualiza', actualizar),
 //router.update('/eliminaUltimo', eliminarUltimo);
-//router.update('/eliminarporNombre', eliminarPorNombre);
 
+console.log("hola Luis, este es mi primer git")
 
 module.exports = router;
